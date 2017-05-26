@@ -1,0 +1,11 @@
+{
+  "name": "slack-notification-helper",
+  "version": "1.0.0",
+  "description": "Small script to help send notifications to slack channel",
+  "main": "slack-helper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
